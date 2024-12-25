@@ -2,7 +2,7 @@
 👋 Hi, I'm Poornachandra  
 🔭 AI Engineer | Aspiring AI System Solution Architect  
 🌱 I’m currently learning advanced AI architectures, cloud-native technologies and Rust  
-💬 Ask me about AI, Machine Learning, and Cloud Computing  
+💬 Passionate about Private AI, Robotics and Blockchain tech 
 ⚡ Fun fact: I love blending creativity with technology to solve real-world problems for the good of humanity 
 
 ---
